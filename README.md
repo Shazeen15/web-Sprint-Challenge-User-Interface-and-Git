@@ -37,17 +37,20 @@ Edit this document to include your answers after each question. Make sure to lea
    - semantic elemenst gives your section meaning. If you were to look at an HTML markup you would be able to know what that section means. For example, header tag. You know that this section is a header.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
-   display: block means that the content take up the whole horizontal line.
-   display: inline means that the content only takes up the space it needs in the horizontal line
+
+   - display: block means that the content take up the whole horizontal line.
+     display: inline means that the content only takes up the space it needs in the horizontal line
 
 3. What are the 4 areas of the box model?
-   in the box model we have the content, padding, border and margin.
+
+   - in the box model we have the content, padding, border and margin.
 
 4. While using flexbox, what axis does the following property work on: `align-items: center`?
-   align-items controls the cross axis when the the direction is set to row.
+
+   - align-items controls the cross axis when the the direction is set to row.
 
 5. Explain why git is valuable to a team of developers.
-   git is important because it can help developers work as a team afficiently. Each person can focus on their part in the same project and be able to collaborate.
+   - git is important because it can help developers work as a team afficiently. Each person can focus on their part in the same project and be able to collaborate.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section _will_ prevent you from passing this challenge.
 
