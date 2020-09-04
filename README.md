@@ -33,7 +33,8 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your Team Lead
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-   semantic elemenst gives your section meaning. If you were to look at an HTML markup you would be able to know what that section means. For example, header tag. You know that this section is a header.
+
+   - semantic elemenst gives your section meaning. If you were to look at an HTML markup you would be able to know what that section means. For example, header tag. You know that this section is a header.
 
 2. Name two big differences between `display: block;` and `display: inline;`.
    display: block means that the content take up the whole horizontal line.
